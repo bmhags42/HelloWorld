@@ -1,2 +1,1 @@
-print("Good Night Rexburg")
-#Stage, commit, sync
+print("Hello World")
